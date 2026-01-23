@@ -17,6 +17,7 @@ i work with python,sql, excel and data visualization to uncover insights.
       -Attention to Details
 
  ###📽️Projects
+     
      -**Sale Performance Analysis**
       Excel
 

@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Akinwalie-Olushola/Akinwalie-Olushola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Akinwalie Olushola👋
+A data analyst with background in economics and international business.
+i work with python,sql, excel and data visualization to uncover insights.
 
-Here are some ideas to get you started:
+###🔧Tools
+     -Python(pandas, Numpy, Matplotlib/Seaborn)
+     -SQL
+     -Excel
+     -Power BI
+     -Lookerstudio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ###🌱soft skills 
+      -Excellent Communication
+      -Data Story Telling 
+      -Critical thinking
+      -Attention to Details
+
+ ###📽️Projects
+     -**Sale Performance Analysis**
+      Excel
+
+     -**Dashboard Project**
+      lookersstudio/Google sheet
+
+ ###🔎Contact 
+       -Linkedln: 
+
+  
+   
+
+

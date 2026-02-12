@@ -1,19 +1,29 @@
 
-## Hi, I'm Akinwalie Olushola👋
+# Hi, I'm Akinwalie Olushola👋
 Business/Data analyst with background in economics and international business.
 
-###🔧Tools i use :
+##🔧**Tools i use :**
+     
      -SQL
+     
      -Excel
+     
      -Power BI
+     
      -Lookerstudio
+    
      -Python
 
- ###🌱soft skills 
+ ##🌱**soft skills** 
+      
       -Excellent Communication
+      
       -Data Story Telling 
+      
       -Critical thinking and problem solving 
+      
       -Attention to Details
+      
       -interpersonal skills
 
  ###📽️Projects avialable 

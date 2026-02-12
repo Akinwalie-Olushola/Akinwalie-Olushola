@@ -1,28 +1,28 @@
 
 ## Hi, I'm Akinwalie Olushola👋
-A data analyst with background in economics and international business.
-i work with python,sql, excel and data visualization to uncover insights.
+Business/Data analyst with background in economics and international business.
 
-###🔧Tools
-     -Python(pandas, Numpy, Matplotlib/Seaborn)
+###🔧Tools i use :
      -SQL
      -Excel
      -Power BI
      -Lookerstudio
+     -Python
 
  ###🌱soft skills 
       -Excellent Communication
       -Data Story Telling 
-      -Critical thinking
+      -Critical thinking and problem solving 
       -Attention to Details
+      -interpersonal skills
 
- ###📽️Projects
+ ###📽️Projects avialable 
      
-     -**Sale Performance Analysis**
-      Excel
+     -**Environmental_Footprint_Analysis**
+      lookersstudio/Google form
 
-     -**Dashboard Project**
-      lookersstudio/Google sheet
+     -**sales Analysis**
+      Microsoft Excel
 
  ###🔎Contact 
        -Linkedln: 

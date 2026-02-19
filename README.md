@@ -17,9 +17,11 @@ Business/Data analyst with background in economics and international business.
       
       -Excellent Communication
       
+      -Aroactive
+      
       -Data Story Telling 
       
-      -Critical thinking and problem solving 
+      -Analytical thinking and problem solving 
       
       -Attention to Details
       
@@ -33,8 +35,7 @@ Business/Data analyst with background in economics and international business.
      -**sales Analysis**
       Microsoft Excel
 
- ###🔎Contact 
-       -Linkedln: 
+ 
 
   
    

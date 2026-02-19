@@ -4,7 +4,7 @@ Business/Data analyst with background in economics and international business.
 
 ##🔧**Tools i use :**
      
-     -SQL
+     -SQL(mysql, postgresql)
      
      -Excel
      
@@ -12,7 +12,6 @@ Business/Data analyst with background in economics and international business.
      
      -Lookerstudio
     
-     -Python
 
  ##🌱**soft skills** 
       

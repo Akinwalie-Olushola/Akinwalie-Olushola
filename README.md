@@ -4,27 +4,26 @@ Business/Data analyst with background in economics and international business.
 
 ##🔧**Tools i use :**
      
+     -Jira
+     -Confluence 
+     -Ms Project
      -SQL(mysql, postgresql)
-     
-     -Excel
-     
      -Power BI
-     
+     -Excel
+     -figma 
      -Lookerstudio
+     -draw.io
+     -visio
+     
     
-
- ##🌱**soft skills** 
+##🌱**soft skills** 
       
       -Excellent Communication
-      
-      -Aroactive
-      
+      -Facilitation 
+      -proactive
       -Data Story Telling 
-      
       -Analytical thinking and problem solving 
-      
       -Attention to Details
-      
       -interpersonal skills
 
  ###📽️Projects avialable 

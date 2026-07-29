@@ -1,19 +1,16 @@
 
-# Hi, I'm Akinwalie Olushola👋
-Business/Data analyst with background in economics and international business.
+# Hi, I'm Olushola Akinwalie👋
+I'm  a Business analyst with background in Economics and International Business. I genuinely enjoy working with data because I believe informed decisions
+are driven by meaningful insights. Outside of my Business Analysis which I am passionate about, I enjoy exploring dataset and building personal data analysis projects. This GitHub is where I document those projects as part of my continuous learning , while demonstrating my analytical thinking and technical skills.    
 
-##🔧**Tools i use :**
+##🔧**Tools :**
      
-     -Jira
-     -Confluence 
-     -Ms Project
+
      -SQL(mysql, postgresql)
      -Power BI
      -Excel
-     -figma 
      -Lookerstudio
-     -draw.io
-     -visio
+     -Google sheet
      
     
 ##🌱**soft skills** 
@@ -25,13 +22,14 @@ Business/Data analyst with background in economics and international business.
       -Analytical thinking and problem solving 
       -Attention to Details
       -interpersonal skills
+      
 
  ###📽️Projects avialable 
      
      -**Environmental_Footprint_Analysis**
       lookersstudio/Google form
 
-     -**sales Analysis**
+     -** Bike Sales Analysis**
       Microsoft Excel
 
  

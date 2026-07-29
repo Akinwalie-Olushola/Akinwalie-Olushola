@@ -1,7 +1,7 @@
 
 # Hi, I'm Olushola Akinwalie👋
 I'm  a Business analyst with background in Economics and International Business. I genuinely enjoy working with data because I believe informed decisions
-are driven by meaningful insights. Outside of my Business Analysis which I am passionate about, I enjoy exploring dataset and building personal data analysis projects. This GitHub is where I document those projects as part of my continuous learning , while demonstrating my analytical thinking and technical skills.    
+are driven by meaningful insights. Outside of Business Analysis which I am passionate about, I enjoy exploring dataset and building personal data analysis projects. This GitHub is where I document those projects as part of my continuous learning , while demonstrating my analytical thinking and technical skills.    
 
 ##🔧**Tools :**
      
